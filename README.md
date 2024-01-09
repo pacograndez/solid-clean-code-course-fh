@@ -5,7 +5,7 @@ Proyecto de Vanilla TypeScript en Vite para trabajar ejercicios sobre los **[Pri
 
 ## Introducción
 
-> Practicar y aprender buenas prácticas para el manejo de nuestro código y reducir la deuda técnica.
+Practicar y aprender buenas prácticas para el manejo de nuestro código y reducir la deuda técnica.
 
 Lo aprendido en este curso también se aplica para cualquier otro lenguaje de programación que utlicemos.
 
